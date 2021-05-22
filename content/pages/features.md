@@ -1,5 +1,5 @@
 ---
-title: Featuress11
+title: Features
 sections:
   - type: hero_section
     title: Explore Features
